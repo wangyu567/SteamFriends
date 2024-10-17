@@ -16,7 +16,6 @@
 
 | Avatar                                                                            | Name                    | steamid                                                                     | is_friend   | BFD                 | Remark   | removed_time        |
 |:----------------------------------------------------------------------------------|:------------------------|:----------------------------------------------------------------------------|:------------|:--------------------|:---------|:--------------------|
-| ![](https://avatars.steamstatic.com/6f6e79424e7b804efc1a73c6cab4d77e3c87a6cd.jpg) | Iffychan                | [76561198072692168](https://steamcommunity.com/profiles/76561198072692168/) | ❌           | 2023-08-31 08:59:19 |          | 2024-10-17 10:54:20 |
 | ![](https://avatars.steamstatic.com/7f0e944f158861cb3785bb030044f5cebbd4425d.jpg) | 芒果花蜜                    | [76561199166249469](https://steamcommunity.com/profiles/76561199166249469/) | ✅           | 2024-10-13 14:32:29 |          |                     |
 | ![](https://avatars.steamstatic.com/8cfbeccb8fecc9a6395a9196ecb361fb15857f8a.jpg) | 塔塔                      | [76561199649093530](https://steamcommunity.com/profiles/76561199649093530/) | ✅           | 2024-05-06 00:38:35 |          |                     |
 | ![](https://avatars.steamstatic.com/e256bf129c3f76dc4b0d42ff152910d0dfb3bdea.jpg) | Tokiro                  | [76561199385921418](https://steamcommunity.com/profiles/76561199385921418/) | ✅           | 2024-02-18 13:31:18 |          |                     |
